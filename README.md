@@ -1,6 +1,6 @@
-# Curso de capacitación: “Introducción general al uso de R: un ecosistema para investigadores, desarrolladores y docentes”
+# Curso: “Introducción general al uso de R: un ecosistema para investigadores, desarrolladores y docentes”
 
-# Responsable del curso
+# Responsable
 Ignacio Minoli
 
 # Perfil de las personas destinatarias del curso:
