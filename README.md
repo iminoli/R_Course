@@ -9,6 +9,19 @@ Este curso está dirigido a investigadores/as, desarrolladores/as y docentes que
 # Objetivos generales
 Enseñar el lenguaje de programación R mediante ejemplos y ejercicios específicamente diseñados, aplicar en forma eficiente las principales herramientas para el procesamiento, exploración, presentación gráfica de datos y aplicaciones específicas que dispone este lenguaje de programación.
 
+# Días y carga horaria
+* Cinco (5) días hábiles con 8 horas reales por día.
+* Carga total de 40 horas con evaluación final.
+* Teóricos de 8 a 12hs. y prácticas de 13.30 a 17.30hs.
+
+# Requisitos mínimos
+* Graduados/as de carreras de grado y/o postgrado.
+* Conocimiento previo mínimo de nivel básico en informática.
+* Asistencia obligatoria mínima del 80% de las clases teóricas y prácticas.
+* Lectura fluida en inglés.
+* Cada alumno/a debe poseer su propia laptop personal (por la modalidad del curso).
+* Conexión permanente a internet.
+
 # Contenidos mínimos
 Como instalar R en diferentes sistemas operativos y sus librerías. Principales editores de texto para R: instalación, uso, edición y almacenamiento de scripts. Conceptos básicos en la programación en R. Como importar y exportar datos y objetos. Tipos de objetos en R. Como generar y manipular objetos. Funciones ya integradas en R básico, estadísticas, gráficas y tablas. Funciones propias personalizadas y condicionales. Procesos iterativos. R básico y la familia tidyverse. Uso de R para generar presentaciones, documentación e informes.
 
