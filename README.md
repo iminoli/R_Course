@@ -1,7 +1,7 @@
 # Curso: “Introducción general al uso de R: un ecosistema para investigadores, desarrolladores y docentes”
 
 # Responsables
-Ignacio Minoli
+Ignacio Minoli. E-mail: minolicnp@gmail.com
 
 # Destinatarias/os
 Este curso está dirigido a investigadores/as, desarrolladores/as y docentes que nunca hayan utilizado R para sus actividades académicas y/o laborales.
