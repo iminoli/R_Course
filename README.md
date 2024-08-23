@@ -3,7 +3,7 @@
 # Responsable
 Ignacio Minoli
 
-# Perfil de las personas destinatarias del curso:
+# Destinatarias/os:
 Este curso está dirigido a investigadores/as, desarrolladores/as y docentes que nunca hayan utilizado R para sus actividades académicas y/o laborales.
 
 # Objetivos generales
