@@ -1,15 +1,15 @@
 # Curso: “Introducción general al uso de R: un ecosistema para investigadores, desarrolladores y docentes”
 
-# Responsable
+# Responsables
 Ignacio Minoli
 
-# Destinatarias/os:
+# Destinatarias/os
 Este curso está dirigido a investigadores/as, desarrolladores/as y docentes que nunca hayan utilizado R para sus actividades académicas y/o laborales.
 
 # Objetivos generales
 Enseñar el lenguaje de programación R mediante ejemplos y ejercicios específicamente diseñados, aplicar en forma eficiente las principales herramientas para el procesamiento, exploración, presentación gráfica de datos y aplicaciones específicas que dispone este lenguaje de programación.
 
-# Contenidos mínimos:
+# Contenidos mínimos
 Como instalar R en diferentes sistemas operativos y sus librerías. Principales editores de texto para R: instalación, uso, edición y almacenamiento de scripts. Conceptos básicos en la programación en R. Como importar y exportar datos y objetos. Tipos de objetos en R. Como generar y manipular objetos. Funciones ya integradas en R básico, estadísticas, gráficas y tablas. Funciones propias personalizadas y condicionales. Procesos iterativos. R básico y la familia tidyverse. Uso de R para generar presentaciones, documentación e informes.
 
 # Programa analítico
