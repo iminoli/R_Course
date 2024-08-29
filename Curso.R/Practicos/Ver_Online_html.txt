@@ -1,0 +1,10 @@
+# Para ver online estos .html sin descargarlos
+
+# 1ro. Pegar la barra de direccciones en un navegador:
+https://html-preview.github.io/?url=
+
+# 2do. Copiar la dirección del enlace de un archivo. Por ej.
+https://github.com/iminoli/R_Course/blob/main/Curso.R.2024/Practicos/Practicos_Clase_01.html
+
+# 3ro. Pegarlo todo junto en la barra del navegador y dar enter
+https://html-preview.github.io/?url=https://github.com/iminoli/R_Course/blob/main/Curso.R.2024/Practicos/Practicos_Clase_01.html
