@@ -1,3 +1,10 @@
+##========##========##========##========##========##
+# Author: Ignacio Minoli
+# E-mail: minolicnp@gmail.com
+# Date: 2024-08-29
+# Title: "See uploaded html files in github"
+##========##========##========##========##========##
+
 # Para ver online estos .html sin descargarlos
 
 # 1ro. Pegar la barra de direccciones en un navegador:
